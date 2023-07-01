@@ -22,9 +22,7 @@ https://www.bilibili.com/video/BV1oj411S7V7/?spm_id_from=333.999.0.0
 
 本系统是以Django作为基础框架，采用MTV模式，数据库使用MongoDB、MySQL和Redis，以从豆瓣平台爬取的电影数据作为基础数据源，主要基于用户的基本信息和使用操作记录等行为信息来开发用户标签，并使用Hadoop、Spark大数据组件进行分析和处理的推荐系统。管理系统使用的是Django自带的管理系统，并使用simpleui进行了美化。
 
-![8](jiagou.png)
 
-![9](mokuai.png)
 
 # 开发技术
 1. 后端使用SpringBoot+Mybatis-Plus框架
